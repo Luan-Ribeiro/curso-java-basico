@@ -9,4 +9,4 @@ Orientação à Objetos e Java /
 Herança, Interface e Polimorfismo /
 Tratamento de erros e exceções 
 
-Agradecimento especial a Loiane Grosner pelo excelente curso gratuito
+Agradecimento especial a Loiane Groner pelo excelente curso gratuito
